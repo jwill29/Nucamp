@@ -1,0 +1,39 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif";
+}
+
+h1, h2, h3{
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+h2 {
+    color: #999b84;
+}
+
+header h2{
+    color: #d8ac9c;
+}
+
+.p{
+    font-family: "Poppins", 'Lucida Sans Unicode';
+}
+
+
+footer {
+    background-image: linear-gradient(#efd9d1, white);
+    padding: 20px 0;
+    font-family: "Poppins", 'Lucida Sans Unicode';
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #92817a, #707070, #16697a);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+    font-family: "Poppins", 'Lucida Sans Unicode';
+}
