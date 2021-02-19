@@ -1,28 +1,23 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif";
+    font-family: "Open Sans", sans-serif;
 }
 
 h1, h2, h3{
-    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-family: "Lobster", cursive;
 }
 
 h2 {
     color: #999b84;
 }
 
+
 header h2{
     color: #d8ac9c;
 }
 
-.p{
-    font-family: "Poppins", 'Lucida Sans Unicode';
-}
-
-
-footer {
+footer{
     background-image: linear-gradient(#efd9d1, white);
     padding: 20px 0;
-    font-family: "Poppins", 'Lucida Sans Unicode';
 }
 
 .jumbotron {
@@ -35,5 +30,4 @@ footer {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
-    font-family: "Poppins", 'Lucida Sans Unicode';
 }
