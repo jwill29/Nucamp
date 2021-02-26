@@ -36,3 +36,8 @@ footer{
 .navbar{
     background-color: #eabf9f; 
 }
+
+.site-footer{
+    background-image: linear-gradient(#eabf9f, white);
+    padding: 20px 0;
+}
